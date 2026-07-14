@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gambar/1-5/Scene1.unity
+    guid: 1cc0fbc8ccfc1a04cae206caaea5f16b
+  - enabled: 1
+    path: Assets/Gambar/1-5/Scene2.unity
+    guid: 93b1d494313a3f348a7b46c7ff90210c
+  - enabled: 1
+    path: Assets/Gambar/1-5/Scene3.unity
+    guid: fe995d2dac4a67c4a96c5adf1f1befab
+  - enabled: 1
+    path: Assets/Gambar/1-5/Scene4.unity
+    guid: b51d76b8d17e52e4dbd79de3aa77a9b1
+  - enabled: 1
+    path: Assets/Gambar/1-5/Scene5.unity
+    guid: b74642c33136d504588f816ed69bd7fe
+  - enabled: 1
+    path: Assets/Gambar/(6)-(8)/Scene5(5).unity
+    guid: 433823f29981e354ead7652cbdcdeb64
+  - enabled: 1
+    path: Assets/Gambar/(6)-(8)/Scene5(6).unity
+    guid: 7fc56e6eba18b4f429d538e1199b8603
+  - enabled: 1
+    path: Assets/Gambar/(6)-(8)/Scene5(7).unity
+    guid: ea1860d98a72a4242bee4011a22073b4
+  - enabled: 1
+    path: Assets/Gambar/6-10/Scene6.unity
+    guid: 46f2c45a9fe48ee46bc371f29120e571
+  - enabled: 1
+    path: Assets/Gambar/6-10/Scene7.unity
+    guid: ea25127cd0094584baf7494f2ba294d6
+  - enabled: 1
+    path: Assets/Gambar/6-10/Scene8.unity
+    guid: 1a0c2cdbd800a604cad30ab8a6c287ea
+  - enabled: 1
+    path: Assets/Gambar/6-10/Scene9.unity
+    guid: 1a2c3367522a1c04ea1be9e2626ee457
+  - enabled: 1
+    path: Assets/Gambar/6-10/Scene10.unity
+    guid: 8de758a24aec5d945a7210a83781b15f
+  - enabled: 1
+    path: Assets/Gambar/11-15/Scene11.unity
+    guid: 5b6cc2e6994aed94e8cf88021b852899
+  - enabled: 1
+    path: Assets/Gambar/11-15/Scene12.unity
+    guid: 76992679e97572b48ab0ff0bf7990cf3
+  - enabled: 1
+    path: Assets/Gambar/11-15/Scene13.unity
+    guid: 9c0a83bd4f8b6ec46a8e4bae60ddaefd
+  - enabled: 1
+    path: Assets/Gambar/11-15/Scene14.unity
+    guid: b6ca1319a8914cc4db5b2edf8edf9169
+  - enabled: 1
+    path: Assets/Gambar/11-15/Scene15.unity
+    guid: b933cd7ab35954f49b159c10b9aef358
+  - enabled: 1
+    path: Assets/Gambar/16-20/Scene16.unity
+    guid: ef3dbb00864239c4ea2471c13cdc43aa
+  - enabled: 1
+    path: Assets/Gambar/16-20/Scene17.unity
+    guid: 00b235e5e1b4cf14a8b6a8abba461f55
+  - enabled: 1
+    path: Assets/Gambar/16-20/Scene18.unity
+    guid: 2c09b8929491fde4188bb846b5ae3f49
+  - enabled: 1
+    path: Assets/Gambar/16-20/Scene19.unity
+    guid: bd4866bddd027354bbb5ad163d7cd968
+  - enabled: 1
+    path: Assets/Gambar/16-20/scene20.unity
+    guid: c765c10e4b1aae74a859c67e453a8b1f
+  - enabled: 1
+    path: Assets/Gambar/21-25/scene21.unity
+    guid: 58053be7109beb14f9df96342e54dcf3
+  - enabled: 1
+    path: Assets/Gambar/21-25/scene22.unity
+    guid: 929ceda4dc50fb54782cd39657e603e7
+  - enabled: 1
+    path: Assets/Gambar/21-25/scene23.unity
+    guid: 1edef02c57bebbd41b5252404889807e
+  - enabled: 1
+    path: Assets/Gambar/21-25/Scene24.unity
+    guid: 772d806826b78d74fbd74847d9387b0e
+  - enabled: 1
+    path: Assets/Gambar/21-25/Scene25.unity
+    guid: 2e9232342e9827f4da6e66f78c252d26
+  - enabled: 1
+    path: Assets/Gambar/26-30/Scene26.unity
+    guid: e3bfaac603f568e4384bccb5f05acf0b
+  - enabled: 1
+    path: Assets/Gambar/26-30/Scene27.unity
+    guid: 2cf96c2f79e2c324cbfd57d3915d297d
+  - enabled: 1
+    path: Assets/Gambar/26-30/Scene28.unity
+    guid: b5eb77af4a329ef42bf9396abfd90dfd
+  - enabled: 1
+    path: Assets/Gambar/26-30/Scene29.unity
+    guid: a6da42da986303e45b5735e54d419bde
+  - enabled: 1
+    path: Assets/Gambar/26-30/Scene30.unity
+    guid: 1847ca8478fa5bd4396da4dca8785db8
+  - enabled: 1
+    path: Assets/Gambar/31-35/Scene31.unity
+    guid: 9b1c71801e21f1c408f48f296862b4bf
+  - enabled: 1
+    path: Assets/Gambar/31-35/Scene32.unity
+    guid: ea60b2c4a9ea7b6449e0d92834867335
+  - enabled: 1
+    path: Assets/Gambar/31-35/Scene33.unity
+    guid: 313332ea4e38509479ea08675c4099f4
+  - enabled: 1
+    path: Assets/Gambar/31-35/Scene34.unity
+    guid: bd34dc55140239f46aa328c4b3024e0b
+  - enabled: 1
+    path: Assets/Gambar/31-35/Scene34(1).unity
+    guid: 021335e0efc519844ade4813ce6edd97
+  - enabled: 1
+    path: Assets/Gambar/31-35/Scene35.unity
+    guid: 6bc7687232b9f2b4cbf8ef9bdfb3727a
+  - enabled: 1
+    path: Assets/Gambar/36(1-2)/Scene36.unity
+    guid: 4200ecf2488afda44b38bf5ffac8a372
+  - enabled: 1
+    path: Assets/Gambar/36(1-2)/Scene36(1).unity
+    guid: 6ce29a53a3c85c84fa2f60a8fbd471d4
+  - enabled: 1
+    path: Assets/Gambar/36(1-2)/Scene36(2).unity
+    guid: c8f4d6cd09054564cb3d4ea43d669386
+  - enabled: 1
+    path: Assets/Gambar/37(1-2)/Scene37.unity
+    guid: a7cac9a69f9ef8742b2d09de62517b96
+  - enabled: 1
+    path: Assets/Gambar/37(1-2)/Scene37(1).unity
+    guid: 710557121851d514b8c488231f578fb6
+  - enabled: 1
+    path: Assets/Gambar/37(1-2)/Scene37(2).unity
+    guid: f2cbeb86a1292cf4ca23502a5a14459f
+  - enabled: 1
+    path: Assets/Gambar/38(1-2)/Scene38.unity
+    guid: eae21caef94c80243855b82c9c780080
+  - enabled: 1
+    path: Assets/Gambar/38(1-2)/Scene38(1).unity
+    guid: 201848fd765a2e7409c57bb34745656a
+  - enabled: 1
+    path: Assets/Gambar/38(1-2)/Scene38(2).unity
+    guid: 54524f5142468754da7601d39baf300d
+  - enabled: 1
+    path: Assets/Gambar/39-44/Scene39.unity
+    guid: cb6c063a611f6cb4bb4dd1add2534cb4
+  - enabled: 1
+    path: Assets/Gambar/39-44/Scene40.unity
+    guid: 21e3ae6da17ebb34897db68dd0f2bb7f
+  - enabled: 1
+    path: Assets/Gambar/39-44/Scene41.unity
+    guid: 1c4b02a76fbf46541a5d3cb9bcdac743
+  - enabled: 1
+    path: Assets/Gambar/39-44/Scene42.unity
+    guid: b1e1f0a7d4ecefe479e15127193dccef
+  - enabled: 1
+    path: Assets/Gambar/39-44/Scene43.unity
+    guid: ca3217be0166b0f478b781fc8c3ace80
+  - enabled: 1
+    path: Assets/Gambar/39-44/Scene44.unity
+    guid: 575103bcf1fd71146a77b74862db8d10
+  m_configObjects: {}
